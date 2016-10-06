@@ -1,0 +1,1 @@
+I created 6 oil drums throughout the game board that explode when they are hit and take 10 life points away from the player who hit them.
